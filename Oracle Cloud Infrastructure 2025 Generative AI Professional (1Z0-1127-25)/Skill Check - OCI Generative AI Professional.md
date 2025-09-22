@@ -11,8 +11,7 @@
 > In-context learning in Large Language Models (LLMs) involves updating or fine-tuning a pretrained language model with additional data or examples specific to a particular context or domain. This process enables the model to adapt its knowledge and capabilities to better suit the requirements of a specific task or application.
 
 
-2. Which statement accurately reflects the differences between these approaches in terms of the number of parameters modified and type of data
-used?
+2. Which statement accurately reflects the differences between these approaches in terms of the number of parameters modified and type of data used?
 - [ ] Soft Prompting and Continuous Pretraining are both methods that require no modification to the original parameters of the model.
 - [x] Fine-tuning modifies all parameters using labeled, task-specific data, while Parameter Efficient Fine-Tuning updates a few, new parameters
 also with labeled, task-specific data.
