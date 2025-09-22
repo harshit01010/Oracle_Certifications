@@ -111,7 +111,7 @@ Which Al task will you use to implement it?
 
 
 17. Lisa is working on a project that involves transcribing thousands of audio files stored in Oracle Cloud. She wants to process multiple files efficiently instead of transcribing them
-one by one.
+one by one. \
 Which OCI Speech feature should Lisa use?
 - [ ] Confidence scoring
 - [ ] Time stamping
@@ -133,7 +133,7 @@ Which OCI Speech feature should Lisa use?
 
 
 
-20. You are part of the medical transcription team and need to automate transcription tasks.
+20. You are part of the medical transcription team and need to automate transcription tasks. \
 Which OCI Al service are you most likely to use?
 - [ ] Vision
 - [ ] Document Understanding
