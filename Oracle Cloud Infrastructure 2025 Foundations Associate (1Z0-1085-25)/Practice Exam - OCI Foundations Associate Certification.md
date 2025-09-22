@@ -2,8 +2,7 @@
 ## __*Practice Exam*__: OCI Foundations Associate Certification
 
 
-1. Which Oracle Cloud Infrastructure service is designed to protect your web applications from various types of malicious attacks, such as SQL
-injection and cross-site scripting?
+1. Which Oracle Cloud Infrastructure service is designed to protect your web applications from various types of malicious attacks, such as SQL injection and cross-site scripting?
 - [ ] Security Zones
 - [x] Web Application Firewall (WAF)
 - [ ] Cloud Guard
@@ -11,8 +10,7 @@ injection and cross-site scripting?
 
 > Oracle Cloud Infrastructure Web Application Firewall (WAF) is designed to protect your web applications from various types of malicious attacks, such as SQL injection and cross-site scripting. WAF inspects incoming web traffic and filters out any requests that match predefined security rules, ensuring the security and availability of your web applications. 
 
-2. Which type of Oracle Cloud Infrastructure networking gateway allows access to Oracle services within the same region without traversing the
-public internet?
+2. Which type of Oracle Cloud Infrastructure networking gateway allows access to Oracle services within the same region without traversing the public internet?
 - [ ] NAT Gateway
 - [ ] Dynamic Routing Gateway
 - [ ] Internet Gateway
@@ -117,8 +115,7 @@ public internet?
 > An IAM policy statement in Oracle Cloud Infrastructure typically consists of these components: Location (compartment or tenancy), Action Verb (the specific action to be allowed), Resource (the resources the action can be performed on), Principal (group the policy applies to), and a set of optional Conditions. Encryption is not a component of an IAM policy statement; it is a security measure used to protect sensitive data. 
 
 
-14. In the Oracle Cloud Infrastructure Block Volume service, which feature enables you to increase the size of a block volume without any
-downtime?
+14. In the Oracle Cloud Infrastructure Block Volume service, which feature enables you to increase the size of a block volume without any downtime?
 - [ ] Volume Bursting
 - [ ] Volume Elasticity
 - [x] Online Resizing
@@ -127,8 +124,7 @@ downtime?
 > In the Oracle Cloud Infrastructure Block Volume service, Online Resizing enables you to increase the size of a block volume without any downtime. This feature allows you to scale storage capacity on the fly to accommodate growing data needs or application requirements, ensuring continuous availability and performance. 
 
 
-15. Which Oracle Cloud Infrastructure (OCI) offering allows you to run cloud services in your own data center while maintaining regulatory
-compliance?
+15. Which Oracle Cloud Infrastructure (OCI) offering allows you to run cloud services in your own data center while maintaining regulatory compliance?
 - [ ] Oracle Database Service for Azure
 - [x] OCI Dedicated Region
 - [ ] Oracle Database@Azure
@@ -163,8 +159,7 @@ security risks?
 > Oracle Cloud Infrastructure Cloud Guard continuously monitors your cloud resources and configurations to detect, assess, and remediate security risks. Cloud Guard helps maintain a strong security posture by identifying and addressing potential security issues before they become critical. 
 
 
-19. What is the term used to describe the combination of an instance's shape, base image, and metadata in the Oracle Cloud Infrastructure
-Compute service?
+19. What is the term used to describe the combination of an instance's shape, base image, and metadata in the Oracle Cloud Infrastructure Compute service?
 - [x] Instance Configuration
 - [ ] Instance Profile
 - [ ] Instance Specification
@@ -326,8 +321,7 @@ within hours?
 > A Route Table in OCI defines how traffic leaving a subnet is routed. You create route rules to send traffic to specific targets, such as an Internet Gateway (for public traffic) or a NAT Gateway (for instances in a private subnet requiring outbound internet access). It does not manage encryption or user credentials; those functions are handled by other services. Firewall rules are set using Security Lists or Network Security Groups, not Route Tables.
 
 
-37. In the Oracle Cloud Infrastructure shared security responsibility model, who is responsible for securing the customer's data, applications, and
-access control?
+37. In the Oracle Cloud Infrastructure shared security responsibility model, who is responsible for securing the customer's data, applications, and access control?
 - [x] The customer
 - [ ] Government agencies
 - [ ] Oracle
@@ -336,8 +330,7 @@ access control?
 > In the Oracle Cloud Infrastructure shared security responsibility model, the customer is responsible for securing their data, applications, and access control. This includes implementing appropriate security measures such as encryption, user access control, and monitoring to protect sensitive data and ensure the overall security of their cloud environment. 
 
 
-38. How does Oracle Cloud Infrastructure's Bring Your Own License (BYOL) feature help customers save
-on costs?
+38. How does Oracle Cloud Infrastructure's Bring Your Own License (BYOL) feature help customers save on costs?
 - [ ] By offering free software licenses for certain OCI services
 - [ ] By bundling software licenses with OCI services at a discounted rate
 - [x] By allowing customers to use existing software licenses in OCI
